@@ -17,7 +17,7 @@ for i,v in pairs(workspace:WaitForChild("ChestStands"):GetChildren()) do
 end
 
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local ArdalionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local Window = Ardalion Lib:MakeWindow({Name = "Goal Simulator", HidePremium = false, SaveConfig = false, ConfigFolder = "asdsahgjasdhkgjbdsa"})
 local resume = coroutine.resume
